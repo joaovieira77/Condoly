@@ -120,6 +120,3 @@ neighbourly-backend/
 └── .env.example
 ```
 
-## ➡️ Próximo passo
-
-Com o backend pronto, o passo seguinte é o frontend em React + Tailwind CSS, consumindo esta API com Axios e React Router (rotas protegidas por role: residente vs. administrador).
