@@ -44,13 +44,6 @@ src/
 └── utils/format.js         # moeda, datas, nomes de meses (pt-PT)
 ```
 
-## 🎨 Direção visual
-
-O Neighbourly foi pensado como o "livro de registo" do prédio, não como um dashboard SaaS genérico:
-
-- **Cores**: fundo papel (`#F3EFE6`), tinta escura (`#1F2A3C`) e três acentos semânticos ligados ao contexto do condomínio — latão (`#B8863B`, pago), terracota (`#A64B3F`, pendente) e verde-floresta (`#3F6355`, resolvido).
-- **Tipografia**: Fraunces (serifa com carácter) para títulos, IBM Plex Sans para texto e dados.
-- **Estrutura**: painéis com contorno fino (hairline) em vez de cartões com sombra; tabelas com divisórias finas, como um livro de contas.
 
 ## ⚠️ Nota sobre o primeiro acesso
 
